@@ -1,0 +1,1 @@
+# Redux RTK - Código facilito.
