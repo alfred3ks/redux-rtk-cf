@@ -37,7 +37,6 @@ const fetchPokemonsByName = (name) => ({
     name,
 })
 
-};
 
 console.log(fetchPokemonsByName('pikachu'));
 
